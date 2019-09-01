@@ -4,7 +4,7 @@
 
 O `springcloud-eureka` pode criar rapidamente um serviço de registro no pacote [spring cloud oss] (https://spring.io/projects/spring-cloud-netflix), ou seja, [eureka cluster] ( Https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html). O resultado é mostrado abaixo:
 
-![eureka-web](./images/eureka-web.PNG)
+![eureka-web](./images/eureka-web.png)
 
 ## Instalação e uso
 
