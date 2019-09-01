@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: thimico/eureka
   tag: latest
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 
 imagePullSecrets: []
 nameOverride: ""
