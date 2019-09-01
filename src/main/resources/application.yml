@@ -16,3 +16,4 @@ eureka:
 
 server:
   port: ${EUREKA_PORT:8761}
+  defaultOpenForTrafficCount: 0 
