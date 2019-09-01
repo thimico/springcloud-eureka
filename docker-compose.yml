@@ -2,7 +2,7 @@ version: '3.3'
 services:
   eureka-server:
     build:
-      context: ./eureka-server
+      context: ./
       dockerfile: Dockerfile
     # image: thimico/eureka
     container_name: eureka
